@@ -1,0 +1,28 @@
+{
+    "history": [
+        {
+            "user": "hi my name is lokesh",
+            "agent": "Hi Lokesh! It's nice to meet you.\n\nHow can I help you today?"
+        },
+        {
+            "user": "my age is 20",
+            "agent": "Okay, thanks for letting me know, Lokesh!\n\nHow can I help you today?"
+        },
+        {
+            "user": "i work in domain data science",
+            "agent": "That's an interesting field, Lokesh! Thanks for sharing.\n\nHow can I help you today?"
+        },
+        {
+            "user": "can you tell my name ,age and domain",
+            "agent": "Certainly, Lokesh!\n\nYour name is **Lokesh**, your age is **20**, and you work in the domain of **Data Science**.\n\nHow can I help you further today?"
+        },
+        {
+            "user": "what is time now",
+            "agent": "I'm sorry, Lokesh, but as an AI, I don't have access to real-time information like the current time or your specific location.\n\nTo find out the current time, you can usually check the clock on your device, or do a quick search online for \"current time.\"\n\nHow else can I help you today?"
+        },
+        {
+            "user": "in mumbai",
+            "agent": "Thanks for providing the location, Lokesh!\n\nHowever, my capabilities remain the same. Even knowing you're in Mumbai, as an AI, I don't have access to real-time information like the current time or live location data.\n\nTo find out the current time in Mumbai, you can easily do a quick search online for \"current time in Mumbai\" or check a world clock application.\n\nHow else can I help you today?"
+        }
+    ]
+}
